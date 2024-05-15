@@ -18,7 +18,7 @@ function RegisterForm() {
       localStorage.setItem('username', username);
       localStorage.setItem('password', password);
      
-      setSuccessMessage('Зарегистрировано!!! Поздравляем!!');
+      setSuccessMessage('Зарегистрировано !!! Поздравляем!!');
       
     }
   }
